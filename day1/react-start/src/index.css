@@ -1,0 +1,6 @@
+/* 	Flexbox for header items side by side */
+.header-container {
+	display: flex;
+	align-items: center;
+	gap: 2rem;
+} 
